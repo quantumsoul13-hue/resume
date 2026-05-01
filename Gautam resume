@@ -1,0 +1,79 @@
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{enumitem}
+
+\pagestyle{empty}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\titleformat{\section}{
+  \scshape\large\raggedright
+}{}{0em}{}[\titlerule]
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    {\LARGE \textbf{Gautam Dewatwal}} \\ \vspace{2pt}
+    +91-9654794364 \quad | \quad quantumsoul13@gmail.com \quad | \quad linkedin.com/in/gautam-dewatwal \\
+    South Ex Part 1, New Delhi
+\end{center}
+
+%-----------SUMMARY-----------
+\section{Summary}
+Detail-oriented and motivated fresher with hands-on experience in retail operations, logistics coordination, and data handling. Skilled in data analysis using Python, Pandas, and NumPy, along with Advanced Excel for MIS reporting. Strong analytical and problem-solving abilities with a focus on accuracy, efficiency, and data-driven decision-making.
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+
+\textbf{Cashier – Retail \& Wholesale Operations} \hfill Lajpat Nagar, New Delhi \\
+\textit{Cosmetics \& Personal Care Store} \hfill 6 Months
+\begin{itemize}[leftmargin=*]
+\item Handled daily billing and cash transactions using POS software while assisting in retail and wholesale sales
+\item Maintained basic sales and stock records using Microsoft Excel
+\item Prepared simple MIS reports for daily sales and inventory tracking
+\item Coordinated with staff to manage product availability and stock display
+\item Assisted customers with billing, product queries, and order processing
+\item Ensured accurate cash handling and maintained daily transaction records
+\end{itemize}
+
+\textbf{Logistics Operations Associate} \hfill New Delhi \\
+\textit{Federal Express (FedEx Corp.) Pvt. Ltd.} \hfill 1 Year
+\begin{itemize}[leftmargin=*]
+\item Supported logistics and supply chain operations with accurate shipment handling
+\item Maintained operational and shipment datasets for daily MIS and performance reports
+\item Worked with large datasets to track delivery status and operational metrics
+\item Coordinated with warehouse and delivery teams to ensure timely dispatch
+\end{itemize}
+
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills}
+
+\textbf{Data Analysis:} Python, Pandas, NumPy, Jupyter Notebook \\
+\textbf{Reporting:} Advanced Excel, Pivot Tables, VLOOKUP/XLOOKUP, Google Sheets \\
+\textbf{Automation \& Scripting:} VBA (Basic) \\
+\textbf{Core Competencies:} Data Visualization, MIS Reporting, Inventory Analysis
+
+%-----------EDUCATION-----------
+\section{Education}
+
+\textbf{Bachelor of Commerce (B.Com)} \hfill Delhi, India \\
+\textit{School of Open Learning, University of Delhi} \hfill Pursuing
+
+\textbf{Cost and Management Accounting (CMA)} \hfill Delhi, India \\
+\textit{Institute of Cost Accountants of India} \hfill Pursuing
+
+%-----------CERTIFICATION-----------
+\section{Certification}
+
+\textbf{Data Analysis Certification} \hfill Delhi, India \\
+\textit{DUCAT}
+
+\end{document}
